@@ -4,9 +4,7 @@ Visualizing 45,716 Meteorite Landings.
 Data from NASA's Open Data Portal.(https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh)
 ----------- */
 
-// API Key for Mapbox. Get one here:
-// https://www.mapbox.com/studio/account/tokens/
-const key = 'pk.eyJ1IjoibWFwcGF1c2VyIiwiYSI6ImNqNXNrbXIyZDE2a2cyd3J4Ym53YWxieXgifQ.JENDJqKE1SLISxL3Q_T22w'
+const key = 'pk.eyJ1IjoibWFwcGluZzJkYXkiLCJhIjoiY2sxcW5hazJwMTlsbDNwcGs0bzhnaThraiJ9.zm1WfUUgisP3uyT5nV6drQ'
 
 // Options for map
 const options = {
